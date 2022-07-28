@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evatolearn
-- 👀 I’m interested in data related development
-- 🌱 I’m currently learning Scala and Spark
-- 💞️ I’m looking to collaborate on web app dev
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning Java and Scala
+- 💞️ I’m looking to collaborate on ''
 - 📫 How to reach me evatobuy@gmail.com
 
 <!---
